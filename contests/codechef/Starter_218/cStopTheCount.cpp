@@ -1,4 +1,5 @@
 // https://www.codechef.com/START218D/problems/STOPCOUNT
+// https://www.codechef.com/viewsolution/1221083028
 
 #include <bits/stdc++.h>
 using namespace std;
