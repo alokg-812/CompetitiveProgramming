@@ -1,4 +1,5 @@
 // https://www.codechef.com/START218D/problems/CNTARR7
+// https://www.codechef.com/viewsolution/1221114641
 
 #include <bits/stdc++.h>
 using namespace std;
