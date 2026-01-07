@@ -1,3 +1,7 @@
+// https://www.codechef.com/START220C/problems/TWOPLG
+// https://www.codechef.com/viewsolution/1224251667
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
