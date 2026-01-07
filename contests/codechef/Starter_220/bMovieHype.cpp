@@ -1,3 +1,6 @@
+	// https://www.codechef.com/START220C/problems/MOVHYPE
+// https://www.codechef.com/viewsolution/1224221257
+
 #include <bits/stdc++.h>
 using namespace std;
 
