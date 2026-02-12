@@ -1,4 +1,5 @@
 // https://www.codechef.com/problems/ALLEV
+// https://www.codechef.com/viewsolution/1234371464
 
 #include <bits/stdc++.h>
 using namespace std;
