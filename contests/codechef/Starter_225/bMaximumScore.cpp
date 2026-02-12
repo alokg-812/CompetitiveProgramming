@@ -1,4 +1,5 @@
-
+// https://www.codechef.com/START225C/problems/MXSCWN
+// https://www.codechef.com/viewsolution/1234394328
 
 #include <bits/stdc++.h>
 using namespace std;
