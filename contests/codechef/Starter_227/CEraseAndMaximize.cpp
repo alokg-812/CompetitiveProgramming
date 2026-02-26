@@ -1,4 +1,6 @@
 // https://www.codechef.com/START227C/problems/DICEERMAX
+// https://www.codechef.com/viewsolution/1240969914
+
 
 #include <bits/stdc++.h>
 using namespace std;
