@@ -1,5 +1,5 @@
 // https://www.codechef.com/START227C/problems/EQELE
-
+// https://www.codechef.com/viewsolution/1240997523
 
 #include <bits/stdc++.h>
 using namespace std;
