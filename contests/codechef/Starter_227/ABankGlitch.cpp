@@ -1,5 +1,5 @@
 // https://www.codechef.com/START227C/problems/BANKGLITCH
-
+// https://www.codechef.com/viewsolution/1240942628
 
 #include <bits/stdc++.h>
 using namespace std;
