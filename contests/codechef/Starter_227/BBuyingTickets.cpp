@@ -1,4 +1,6 @@
 // https://www.codechef.com/START227C/problems/BUYTICK
+// https://www.codechef.com/viewsolution/1240957728
+
 
 #include <bits/stdc++.h>
 using namespace std;
