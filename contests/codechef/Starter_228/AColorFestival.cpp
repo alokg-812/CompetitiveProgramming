@@ -1,4 +1,6 @@
 // https://www.codechef.com/START228C/problems/BOP2
+// https://www.codechef.com/viewsolution/1244273749
+
 
 #include <bits/stdc++.h>
 using namespace std;
