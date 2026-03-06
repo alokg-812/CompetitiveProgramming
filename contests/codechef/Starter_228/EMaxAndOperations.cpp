@@ -1,3 +1,7 @@
+// https://www.codechef.com/START228C/problems/BOP4
+// https://www.codechef.com/viewsolution/1244335186
+
+
 #include <bits/stdc++.h>
 using namespace std;
 const int MOD = 1e9 + 7;
